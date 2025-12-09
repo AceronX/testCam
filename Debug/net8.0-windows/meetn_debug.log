@@ -1,0 +1,23 @@
+[16:18:48.061] [LoggingService] Logging initialized at C:\Users\pctes\source\repos\meetcam\meetn\bin\Debug\net8.0-windows\meetn_debug.log
+[16:18:48.076] [BackgroundMattingService] BackgroundMattingService constructor started
+[16:18:48.077] [BackgroundMattingService] Model path: C:\Users\pctes\source\repos\meetcam\meetn\bin\Debug\net8.0-windows\Models\model.onnx
+[16:18:48.077] [BackgroundMattingService] Model file exists: True
+[16:18:48.078] [BackgroundMattingService] Creating SessionOptions
+[16:18:48.119] [BackgroundMattingService] Creating InferenceSession
+[16:18:48.281] [BackgroundMattingService] InferenceSession created successfully
+[16:18:48.282] [BackgroundMattingService] Model inputs:
+[16:18:48.284] [BackgroundMattingService]   Input 'src': -1x3x-1x-1
+[16:18:48.285] [BackgroundMattingService]   Input 'r1i': -1x-1x-1x-1
+[16:18:48.285] [BackgroundMattingService]   Input 'r2i': -1x-1x-1x-1
+[16:18:48.285] [BackgroundMattingService]   Input 'r3i': -1x-1x-1x-1
+[16:18:48.286] [BackgroundMattingService]   Input 'r4i': -1x-1x-1x-1
+[16:18:48.286] [BackgroundMattingService]   Input 'downsample_ratio': 1
+[16:18:48.286] [BackgroundMattingService] Model outputs:
+[16:18:48.286] [BackgroundMattingService]   Output 'fgr': -1x3x-1x-1
+[16:18:48.287] [BackgroundMattingService]   Output 'pha': -1x1x-1x-1
+[16:18:48.287] [BackgroundMattingService]   Output 'r1o': -1x16x-1x-1
+[16:18:48.287] [BackgroundMattingService]   Output 'r2o': -1x20x-1x-1
+[16:18:48.287] [BackgroundMattingService]   Output 'r3o': -1x40x-1x-1
+[16:18:48.287] [BackgroundMattingService]   Output 'r4o': -1x64x-1x-1
+[16:18:48.292] [BackgroundMattingService] Recurrent states initialized
+[16:18:48.292] [BackgroundMattingService] BackgroundMattingService constructor completed. IsModelLoaded: True
