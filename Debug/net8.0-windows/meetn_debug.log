@@ -1,2 +1,2 @@
-[16:30:32.272] [LoggingService] Logging initialized at C:\Users\pctes\source\repos\meetcam\meetn\bin\Debug\net8.0-windows\meetn_debug.log
-[16:30:32.279] [BackgroundMattingService] Model loaded OK - Input: 512x288
+[16:40:19.756] [LoggingService] Logging initialized at C:\Users\pctes\source\repos\meetcam\meetn\bin\Debug\net8.0-windows\meetn_debug.log
+[16:40:19.763] [BackgroundMattingService] Model loaded OK - Input: 512x288
