@@ -1,2 +1,2 @@
-[04:43:34.458] [LoggingService] Logging initialized at C:\Users\pctes\source\repos\meetcam\meetn\bin\Debug\net8.0-windows\meetn_debug.log
-[04:43:34.466] [BackgroundMattingService] Model loaded with GPU (DirectML) - Input: 512x288
+[04:54:29.124] [LoggingService] Logging initialized at C:\Users\pctes\source\repos\meetcam\meetn\bin\Debug\net8.0-windows\meetn_debug.log
+[04:54:29.130] [BackgroundMattingService] Model loaded with GPU (DirectML) - Input: 512x288
