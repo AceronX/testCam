@@ -1,4 +1,23 @@
-[12:04:10.090] [LoggingService] Logging initialized at C:\Users\pctes\source\repos\meetcam\meetn\bin\Debug\net8.0-windows\meetn_debug.log
-[12:04:10.097] [BackgroundMattingService] Model loaded with GPU (DirectML) - Input: 512x288
-[12:04:10.116] [SettingsService] Settings loaded
-[12:04:15.589] [SettingsService] Settings saved
+[12:24:37.180] [LoggingService] Logging initialized at C:\Users\pctes\source\repos\meetcam\meetn\bin\Debug\net8.0-windows\meetn_debug.log
+[12:24:37.186] [BackgroundMattingService] Model loaded with GPU (DirectML) - Input: 512x288
+[12:24:37.207] [SettingsService] Settings loaded
+[12:24:37.641] [CameraService] Camera capture started
+[12:24:37.642] [VirtualCameraService] Virtual camera started: 1920x1080 @ 30fps
+[12:24:38.658] [CameraService] Background set: 1920x1080
+[12:24:40.411] [MainViewModel] Background selected: 25ac92c9
+[12:24:40.916] [CameraService] Background set: 1920x1080
+[12:24:42.598] [BackgroundMattingService] Model loaded with CPU - Input: 512x288
+[12:24:42.607] [BackgroundMattingService] Switched to CPU mode
+[12:24:43.758] [BackgroundMattingService] Model loaded with GPU (DirectML) - Input: 512x288
+[12:24:43.758] [BackgroundMattingService] Switched to GPU mode
+[12:24:44.849] [BackgroundMattingService] Model loaded with CPU - Input: 512x288
+[12:24:44.850] [BackgroundMattingService] Switched to CPU mode
+[12:24:45.586] [BackgroundMattingService] Model loaded with GPU (DirectML) - Input: 512x288
+[12:24:45.587] [BackgroundMattingService] Switched to GPU mode
+[12:24:46.776] [BackgroundMattingService] Model loaded with CPU - Input: 512x288
+[12:24:46.776] [BackgroundMattingService] Switched to CPU mode
+[12:24:47.212] [BackgroundMattingService] Model loaded with GPU (DirectML) - Input: 512x288
+[12:24:47.213] [BackgroundMattingService] Switched to GPU mode
+[12:24:48.621] [SettingsService] Settings saved
+[12:24:48.621] [CameraService] Camera capture stopped
+[12:24:48.685] [VirtualCameraService] Virtual camera stopped

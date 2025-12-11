@@ -1,6 +1,6 @@
 {
-  "SelectedCameraName": "OBS Virtual Camera",
-  "SelectedBackgroundPath": "",
+  "SelectedCameraName": "Camera (NVIDIA Broadcast)",
+  "SelectedBackgroundPath": "C:\\Users\\pctes\\source\\repos\\meetcam\\meetn\\bin\\Debug\\net8.0-windows\\Assets\\Abstract\\25ac92c9.jpg",
   "SelectedCategoryName": "Abstract",
   "BlurLevel": 0,
   "IsMirrored": false,
