@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "meetn/1.0.0": {
+      "MeetnCam/1.0.0": {
         "dependencies": {
           "DirectShowLib.Standard": "2.1.0",
           "Microsoft.ML.OnnxRuntime.DirectML": "1.16.3",
@@ -14,7 +14,7 @@
           "OpenCvSharp4.runtime.win": "4.9.0.20240103"
         },
         "runtime": {
-          "meetn.dll": {}
+          "MeetnCam.dll": {}
         }
       },
       "DirectShowLib.Standard/2.1.0": {
@@ -115,7 +115,7 @@
     }
   },
   "libraries": {
-    "meetn/1.0.0": {
+    "MeetnCam/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

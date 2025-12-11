@@ -3,5 +3,6 @@
   "SelectedBackgroundPath": "",
   "SelectedCategoryName": "Abstract",
   "BlurLevel": 0,
-  "IsMirrored": false
+  "IsMirrored": false,
+  "AutoStartEnabled": false
 }
