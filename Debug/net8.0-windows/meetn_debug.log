@@ -1,8 +1,7 @@
-[14:31:29.952] [LoggingService] Logging initialized at C:\Users\pctes\source\repos\meetcam\meetn\bin\Debug\net8.0-windows\meetn_debug.log
-[14:31:29.959] [BackgroundMattingService] Model loaded with GPU (DirectML) - Input: 512x288
-[14:31:29.981] [SettingsService] Settings loaded
-[14:31:40.054] [CameraService] Camera capture started
-[14:31:40.055] [VirtualCameraService] Virtual camera started: 1920x1080 @ 30fps
-[14:31:42.962] [SettingsService] Settings saved
-[14:31:43.178] [CameraService] Camera capture stopped
-[14:31:43.235] [VirtualCameraService] Virtual camera stopped
+[11:03:46.207] [LoggingService] Logging initialized at C:\Users\pctes\source\repos\meetcam\meetn\bin\Debug\net8.0-windows\meetn_debug.log
+[11:03:46.215] [BackgroundMattingService] Model loaded with GPU (DirectML) - Input: 512x288
+[11:03:46.218] [SettingsService] No settings file found, using defaults
+[11:03:46.779] [VirtualCameraService] ERROR: Virtual camera driver not installed. softcam.dll not found.
+[11:03:46.780] [CameraService] Camera capture started
+[11:03:49.537] [SettingsService] Settings saved
+[11:03:49.904] [CameraService] Camera capture stopped
